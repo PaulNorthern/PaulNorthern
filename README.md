@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 ## Stats 
-![PaulNorthern's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulNorthern&show_icons=true&theme=Gradient)
+![PaulNorthern's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulNorthern&show_icons=true&theme=synthwave)
 
 <!--
 **PaulNorthern/PaulNorthern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
