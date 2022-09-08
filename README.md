@@ -1,4 +1,4 @@
-### Hi there 👋 <img src="./hello.gif" width="30px">
+### Hello there 👋 <img src="./hello.gif" width="30px">
 
 
 ## Tech stack and Tools
@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 ## Stats 
-![PaulNorthern's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulNorthern&show_icons=true&theme=radical)
+![PaulNorthern's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulNorthern&show_icons=true&theme=Gradient)
 
 <!--
 **PaulNorthern/PaulNorthern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
