@@ -1,5 +1,6 @@
 ### Hello there 👋 <img src="./hello.gif" width="30px">
 
+Looks like RPG stats
 
 ## &#x1f527; Tech stack and Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
