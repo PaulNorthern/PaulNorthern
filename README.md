@@ -1,8 +1,8 @@
-### Hello there 👋 <img src="./hello.gif" width="30px">
+![](https://external-preview.redd.it/Q_jQKTk88F6ouuVzLOQmP8wqp-1NuuxVNBf8MNVIAsI.jpg?width=1080&crop=smart&auto=webp&s=de21fa9b49e6ebbd8da8ec1102851acba47b268b)
 
-Looks like RPG stats
+kinda RPG stats
 
-## &#x1f527; Tech stack and Tools
+## &#x1f527; Invetory
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Rider-informational?style=flat&logo=Rider&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=.net&logoColor=white&color=2bbc8a)
@@ -12,7 +12,6 @@ Looks like RPG stats
 ![](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; Stats 
 ![PaulNorthern's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulNorthern&show_icons=true&theme=synthwave)
 
 <!--
